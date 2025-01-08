@@ -1,0 +1,94 @@
+[07-Oct-2024 11:32:06 UTC] PHP Warning:  require(/home/btssd/soft.btssd.org/../vendor/autoload.php): failed to open stream: No such file or directory in /home/btssd/soft.btssd.org/index.php on line 34
+[07-Oct-2024 11:32:06 UTC] PHP Warning:  require(/home/btssd/soft.btssd.org/../vendor/autoload.php): failed to open stream: No such file or directory in /home/btssd/soft.btssd.org/index.php on line 34
+[07-Oct-2024 11:32:06 UTC] PHP Fatal error:  require(): Failed opening required '/home/btssd/soft.btssd.org/../vendor/autoload.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/btssd/soft.btssd.org/index.php on line 34
+[07-Oct-2024 11:33:50 UTC] PHP Warning:  require(/home/btssd/soft.btssd.org/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/btssd/soft.btssd.org/index.php on line 34
+[07-Oct-2024 11:33:50 UTC] PHP Warning:  require(/home/btssd/soft.btssd.org/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/btssd/soft.btssd.org/index.php on line 34
+[07-Oct-2024 11:33:50 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/btssd/soft.btssd.org/../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/btssd/soft.btssd.org/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/btssd/soft.btssd.org/index.php on line 34
+[07-Oct-2024 11:33:58 UTC] PHP Warning:  require(/home/btssd/soft.btssd.org/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/btssd/soft.btssd.org/index.php on line 34
+[07-Oct-2024 11:33:58 UTC] PHP Warning:  require(/home/btssd/soft.btssd.org/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/btssd/soft.btssd.org/index.php on line 34
+[07-Oct-2024 11:33:58 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/btssd/soft.btssd.org/../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/btssd/soft.btssd.org/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/btssd/soft.btssd.org/index.php on line 34
+[07-Oct-2024 11:34:22 UTC] PHP Warning:  require(/home/btssd/soft.btssd.org/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/btssd/soft.btssd.org/index.php on line 34
+[07-Oct-2024 11:34:22 UTC] PHP Warning:  require(/home/btssd/soft.btssd.org/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/btssd/soft.btssd.org/index.php on line 34
+[07-Oct-2024 11:34:22 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/btssd/soft.btssd.org/../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/btssd/soft.btssd.org/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/btssd/soft.btssd.org/index.php on line 34
+[07-Oct-2024 11:37:12 UTC] PHP Warning:  require(/home/btssd/soft.btssd.org/vendor/autoload.php): Failed to open stream: No such file or directory in /home/btssd/soft.btssd.org/index.php on line 34
+[07-Oct-2024 11:37:12 UTC] PHP Warning:  require(/home/btssd/soft.btssd.org/vendor/autoload.php): Failed to open stream: No such file or directory in /home/btssd/soft.btssd.org/index.php on line 34
+[07-Oct-2024 11:37:12 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/btssd/soft.btssd.org/vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/btssd/soft.btssd.org/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/btssd/soft.btssd.org/index.php on line 34
+[07-Oct-2024 11:37:16 UTC] PHP Warning:  require(/home/btssd/soft.btssd.org/vendor/autoload.php): Failed to open stream: No such file or directory in /home/btssd/soft.btssd.org/index.php on line 34
+[07-Oct-2024 11:37:16 UTC] PHP Warning:  require(/home/btssd/soft.btssd.org/vendor/autoload.php): Failed to open stream: No such file or directory in /home/btssd/soft.btssd.org/index.php on line 34
+[07-Oct-2024 11:37:16 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/btssd/soft.btssd.org/vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/btssd/soft.btssd.org/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/btssd/soft.btssd.org/index.php on line 34
+[07-Oct-2024 11:38:04 UTC] PHP Warning:  require(/home/btssd/soft.btssd.org/vendor/autoload.php): failed to open stream: No such file or directory in /home/btssd/soft.btssd.org/index.php on line 34
+[07-Oct-2024 11:38:04 UTC] PHP Warning:  require(/home/btssd/soft.btssd.org/vendor/autoload.php): failed to open stream: No such file or directory in /home/btssd/soft.btssd.org/index.php on line 34
+[07-Oct-2024 11:38:04 UTC] PHP Fatal error:  require(): Failed opening required '/home/btssd/soft.btssd.org/vendor/autoload.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/btssd/soft.btssd.org/index.php on line 34
+[07-Oct-2024 11:38:26 UTC] PHP Warning:  require(/home/btssd/soft.btssd.org/vendor/autoload.php): Failed to open stream: No such file or directory in /home/btssd/soft.btssd.org/index.php on line 34
+[07-Oct-2024 11:38:26 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/btssd/soft.btssd.org/vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/btssd/soft.btssd.org/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/btssd/soft.btssd.org/index.php on line 34
+[07-Oct-2024 11:38:28 UTC] PHP Warning:  require(/home/btssd/soft.btssd.org/vendor/autoload.php): Failed to open stream: No such file or directory in /home/btssd/soft.btssd.org/index.php on line 34
+[07-Oct-2024 11:38:28 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/btssd/soft.btssd.org/vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/btssd/soft.btssd.org/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/btssd/soft.btssd.org/index.php on line 34
+[07-Oct-2024 11:39:21 UTC] PHP Warning:  require(/home/btssd/soft.btssd.org/vendor/autoload.php): Failed to open stream: No such file or directory in /home/btssd/soft.btssd.org/index.php on line 34
+[07-Oct-2024 11:39:21 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/btssd/soft.btssd.org/vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/btssd/soft.btssd.org/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/btssd/soft.btssd.org/index.php on line 34
+[07-Oct-2024 11:39:33 UTC] PHP Warning:  require(/home/btssd/soft.btssd.org/vendor/autoload.php): Failed to open stream: No such file or directory in /home/btssd/soft.btssd.org/index.php on line 34
+[07-Oct-2024 11:39:33 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/btssd/soft.btssd.org/vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/btssd/soft.btssd.org/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/btssd/soft.btssd.org/index.php on line 34
+[07-Oct-2024 11:39:35 UTC] PHP Warning:  require(/home/btssd/soft.btssd.org/vendor/autoload.php): Failed to open stream: No such file or directory in /home/btssd/soft.btssd.org/index.php on line 34
+[07-Oct-2024 11:39:35 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/btssd/soft.btssd.org/vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/btssd/soft.btssd.org/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/btssd/soft.btssd.org/index.php on line 34
+[07-Oct-2024 11:39:35 UTC] PHP Warning:  require(/home/btssd/soft.btssd.org/vendor/autoload.php): Failed to open stream: No such file or directory in /home/btssd/soft.btssd.org/index.php on line 34
+[07-Oct-2024 11:39:35 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/btssd/soft.btssd.org/vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/btssd/soft.btssd.org/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/btssd/soft.btssd.org/index.php on line 34
+[07-Oct-2024 11:39:36 UTC] PHP Warning:  require(/home/btssd/soft.btssd.org/vendor/autoload.php): Failed to open stream: No such file or directory in /home/btssd/soft.btssd.org/index.php on line 34
+[07-Oct-2024 11:39:36 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/btssd/soft.btssd.org/vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/btssd/soft.btssd.org/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/btssd/soft.btssd.org/index.php on line 34
+[07-Oct-2024 11:39:36 UTC] PHP Warning:  require(/home/btssd/soft.btssd.org/vendor/autoload.php): Failed to open stream: No such file or directory in /home/btssd/soft.btssd.org/index.php on line 34
+[07-Oct-2024 11:39:36 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/btssd/soft.btssd.org/vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/btssd/soft.btssd.org/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/btssd/soft.btssd.org/index.php on line 34
+[07-Oct-2024 11:40:04 UTC] PHP Warning:  require(/home/btssd/soft.btssd.org/vendor/autoload.php): Failed to open stream: No such file or directory in /home/btssd/soft.btssd.org/index.php on line 34
+[07-Oct-2024 11:40:04 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/btssd/soft.btssd.org/vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/btssd/soft.btssd.org/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/btssd/soft.btssd.org/index.php on line 34
+[07-Oct-2024 11:40:24 UTC] PHP Warning:  require(/home/btssd/soft.btssd.org/vendor/autoload.php): Failed to open stream: No such file or directory in /home/btssd/soft.btssd.org/index.php on line 34
+[07-Oct-2024 11:40:24 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/btssd/soft.btssd.org/vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/btssd/soft.btssd.org/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/btssd/soft.btssd.org/index.php on line 34
+[07-Oct-2024 11:40:43 UTC] PHP Warning:  require(/home/btssd/soft.btssd.org/vendor/autoload.php): Failed to open stream: No such file or directory in /home/btssd/soft.btssd.org/index.php on line 34
+[07-Oct-2024 11:40:43 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/btssd/soft.btssd.org/vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/btssd/soft.btssd.org/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/btssd/soft.btssd.org/index.php on line 34
+[07-Oct-2024 11:47:22 UTC] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.2.0". You are running 8.0.30. in /home/btssd/soft.btssd.org/vendor/composer/platform_check.php on line 24
+[14-Oct-2024 06:09:00 UTC] PHP Fatal error:  Trait "App\Console\Commands\Illuminate\Support\Facades\Log" not found in /home/btssd/soft.btssd.org/app/Console/Commands/AddmissionLimit.php on line 7
+[14-Oct-2024 06:10:00 UTC] PHP Fatal error:  Trait "App\Console\Commands\Illuminate\Support\Facades\Log" not found in /home/btssd/soft.btssd.org/app/Console/Commands/AddmissionLimit.php on line 7

@@ -1,0 +1,13 @@
+[12-Oct-2024 17:08:02 UTC] PHP Fatal error:  Cannot use [] for reading in /home/btssd/soft.btssd.org/storage/framework/views/b823a30e65a4f58cfb6fe356c486e1c8a0de830f.php on line 44
+[21-Oct-2024 09:32:09 UTC] PHP Fatal error:  Cannot use empty array elements in arrays in /home/btssd/soft.btssd.org/app/Http/Controllers/Backend/adminController.php on line 40
+[15-Dec-2024 07:12:37 UTC] PHP Warning:  require_once(/home/btssd/soft.btssd.org/public/../bootstrap/app.php): Failed to open stream: No such file or directory in /home/btssd/soft.btssd.org/public/index.php on line 47
+[15-Dec-2024 07:12:37 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/btssd/soft.btssd.org/public/../bootstrap/app.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/btssd/soft.btssd.org/public/index.php:47
+Stack trace:
+#0 {main}
+  thrown in /home/btssd/soft.btssd.org/public/index.php on line 47
+[05-Jan-2025 12:01:46 Asia/Dhaka] PHP Fatal error:  Cannot redeclare getGrade() (previously declared in /home/btssd/soft.btssd.org/storage/framework/views/5daedbaf7d2e6b25c90d8cd8b3d4c15a11311c3e.php:31) in /home/btssd/soft.btssd.org/storage/framework/views/5daedbaf7d2e6b25c90d8cd8b3d4c15a11311c3e.php on line 31
+[05-Jan-2025 12:02:01 Asia/Dhaka] PHP Fatal error:  Cannot redeclare getGrade() (previously declared in /home/btssd/soft.btssd.org/storage/framework/views/5daedbaf7d2e6b25c90d8cd8b3d4c15a11311c3e.php:31) in /home/btssd/soft.btssd.org/storage/framework/views/5daedbaf7d2e6b25c90d8cd8b3d4c15a11311c3e.php on line 31
+[05-Jan-2025 12:02:11 Asia/Dhaka] PHP Fatal error:  Cannot redeclare getGrade() (previously declared in /home/btssd/soft.btssd.org/storage/framework/views/5daedbaf7d2e6b25c90d8cd8b3d4c15a11311c3e.php:31) in /home/btssd/soft.btssd.org/storage/framework/views/5daedbaf7d2e6b25c90d8cd8b3d4c15a11311c3e.php on line 31
+[05-Jan-2025 12:05:12 Asia/Dhaka] PHP Fatal error:  Cannot redeclare getGrade() (previously declared in /home/btssd/soft.btssd.org/storage/framework/views/5daedbaf7d2e6b25c90d8cd8b3d4c15a11311c3e.php:31) in /home/btssd/soft.btssd.org/storage/framework/views/5daedbaf7d2e6b25c90d8cd8b3d4c15a11311c3e.php on line 31
+[05-Jan-2025 12:07:03 Asia/Dhaka] PHP Fatal error:  Cannot redeclare getGrade() (previously declared in /home/btssd/soft.btssd.org/storage/framework/views/5daedbaf7d2e6b25c90d8cd8b3d4c15a11311c3e.php:31) in /home/btssd/soft.btssd.org/storage/framework/views/5daedbaf7d2e6b25c90d8cd8b3d4c15a11311c3e.php on line 31
+[07-Jan-2025 17:02:08 Asia/Dhaka] PHP Fatal error:  Can't use function return value in write context in /home/btssd/soft.btssd.org/storage/framework/views/6e2c3425533aa42c1b5e393f4e381c89ec368926.php on line 108
